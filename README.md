@@ -1,6 +1,10 @@
-## Which line you chose, how to run each animation
+## MBTA Subway Performance Analysis (Feb 2026 Blizzard)
 
-### Selected Line: _Blue line_
+### The analysis focuses on _the Blue line_ and answers:
+- How did travel times change during the blizzard?
+- How did actual performance compare to scheduled service?
+- Which stations or segments were most affected?
+- How quickly did the system recover? 
 
 > acquire.py → data acquisition layer
 
